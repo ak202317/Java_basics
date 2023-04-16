@@ -21,8 +21,8 @@ public class Main {
         sc.nextLine(); // dummy next line to catch enter key
         String name = sc.nextLine();
 
-        System.out.println("your age is " +age);
-        System.out.println("your name is " +name);
+        System.out.println("your age is. " +age);
+        System.out.println("your name is. " +name);
 
     }
 }
